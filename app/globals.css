@@ -5,6 +5,7 @@
 @layer base {
     :root {
         --primaryLight: #feeded;
+        --accent: #ff4d00;
     }
 
     html {
